@@ -9,20 +9,24 @@ responses.
 The experiment follows these steps:
 1. Selecting AI Models: Various AI models (e.g., GPT-3.5, GPT-4, BERT, T5)
 are chosen for comparison.
+
 2. Defining Prompt Types:
 o Unstructured Prompts: Broad and ambiguous.
 o Refined Prompts: Clear and specific.
+
 3. Testing Across Scenarios:
 o Technical Explanation
 o Creative Writing
 o Troubleshooting
 o Decision-Making Analysis
+
 4. Evaluating Responses: Responses are measured based on:
 o Quality: Coherence and relevance.
 o Accuracy: Correctness of the information.
 o Depth: Level of detail provided.
 
 **3. Results and Observations**
+
 Scenario 1: Technical Explanation
 • Unstructured Prompt: “Tell me about AI.”
 o GPT-3.5: “AI is a technology that mimics human intelligence.”
@@ -40,6 +44,7 @@ Analysis:
 • Accuracy: Unstructured responses were vague, whereas refined
 responses were precise.
 • Depth: Refined responses provided more meaningful insights.
+
 Scenario 2: Creative Writing
 • Unstructured Prompt: “Write a story.”
 o GPT-3.5: “Once upon a time, there was a robot.”
@@ -56,6 +61,7 @@ responses were engaging.
 • Accuracy: Unstructured responses were generic; refined responses were
 well-developed.
 • Depth: Refined responses included emotional and narrative depth.
+
 Scenario 3: Troubleshooting
 • Unstructured Prompt: “Fix my computer.”
 o GPT-3.5: “Try restarting it.”
@@ -70,6 +76,7 @@ Analysis:
 • Accuracy: Unstructured responses were too generic; refined responses
 were actionable.
 • Depth: Refined responses covered multiple troubleshooting steps.
+
 Scenario 4: Decision-Making Analysis
 • Unstructured Prompt: “What should I do?”
 o GPT-3.5: “Think about your options.”
