@@ -4,6 +4,7 @@ The purpose of this experiment is to test how different AI models handle
 vague, unstructured prompts versus well-defined, refined prompts across
 multiple scenarios. The study aims to assess the quality, accuracy, and depth of
 responses.
+
 **2. Methodology**
 The experiment follows these steps:
 1. Selecting AI Models: Various AI models (e.g., GPT-3.5, GPT-4, BERT, T5)
@@ -20,6 +21,7 @@ o Decision-Making Analysis
 o Quality: Coherence and relevance.
 o Accuracy: Correctness of the information.
 o Depth: Level of detail provided.
+
 **3. Results and Observations**
 Scenario 1: Technical Explanation
 • Unstructured Prompt: “Tell me about AI.”
@@ -84,6 +86,7 @@ were well-thought-out.
 • Accuracy: Unstructured responses lacked key considerations; refined
 responses provided detailed factors.
 • Depth: Refined responses covered multiple relevant aspects.
+
 **4. Key Findings**
 • Prompt Design Matters: Specific prompts significantly improve response
 quality.
